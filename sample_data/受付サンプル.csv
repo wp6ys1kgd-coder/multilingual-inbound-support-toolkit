@@ -1,0 +1,6 @@
+受付ID,回答日時,言語,お名前,予約番号,ご用件,対応状況,担当者,対応メモ
+SAMPLE-001,2026-01-15 09:00,English,Sample Guest 01,DEMO-1001,受付,未対応,,Sample data only
+SAMPLE-002,2026-01-15 09:10,繁體中文,範例訪客 02,DEMO-1002,本人確認,対応中,Staff A,Sample data only
+SAMPLE-003,2026-01-15 09:20,한국어,샘플 방문객 03,DEMO-1003,支払い,完了,Staff B,Sample data only
+SAMPLE-004,2026-01-15 09:30,日本語,サンプル利用者04,DEMO-1004,待機,未対応,,Sample data only
+
